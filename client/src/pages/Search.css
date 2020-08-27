@@ -1,0 +1,21 @@
+.search {
+}
+
+.search__info {
+  padding: 2rem;
+}
+
+.search__info > p {
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.search__info > h1 {
+  margin-bottom: 3rem;
+}
+
+.search__info > button {
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 0.5rem;
+}

@@ -3,4 +3,5 @@ import Banner from "./Banner";
 import DatePicker from "./DatePicker";
 import Card from "./Card";
 import Footer from "./Footer";
-export { Header, Banner, DatePicker, Card, Footer };
+import SearchResult from "./SearchResult";
+export { Header, Banner, DatePicker, Card, Footer, SearchResult };
